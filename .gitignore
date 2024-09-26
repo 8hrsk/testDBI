@@ -1,0 +1,22 @@
+
+/vueserv/vue/node_modules
+/vueserv/vue/.DS_Store
+/vueserv/vue/dist
+/vueserv/vue/dist-ssr
+/vueserv/vue/coverage
+/vueserv/vue/*.local
+
+/vueserv/vue/cypress/videos/
+/vueserv/vue/cypress/screenshots/
+
+# Editor directories and files
+/vueserv/vue/.vscode/*
+/vueserv/vue/!.vscode/extensions.json
+/vueserv/vue/.idea
+/vueserv/vue/*.suo
+/vueserv/vue/*.ntvs*
+/vueserv/vue/*.njsproj
+/vueserv/vue/*.sln
+/vueserv/vue/*.sw?
+
+/vueserv/vue/*.tsbuildinfo
